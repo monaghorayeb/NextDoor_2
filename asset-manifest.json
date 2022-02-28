@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NextDoor_2/static/css/main.e6c13ad2.css",
+    "main.js": "/NextDoor_2/static/js/main.402e1395.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NextDoor_2/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/NextDoor_2/index.html",
+    "main.e6c13ad2.css.map": "/NextDoor_2/static/css/main.e6c13ad2.css.map",
+    "main.402e1395.js.map": "/NextDoor_2/static/js/main.402e1395.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NextDoor_2/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.402e1395.js"
+  ]
+}
